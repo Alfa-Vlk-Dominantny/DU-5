@@ -1,0 +1,14 @@
+Úlohy máte vypracované správně. 
+
+- V první části úlohy je instruktivní vykreslit do jednoho grafu i řešení s různou délkou kroku.
+- RK4 metodu není nutné pro druhou část úlohy modifikovat - lze vypočítat celou trajektorii 
+  a poté vybrat body pro Poincarého řez.
+- Vzhledem k tomu, že proměnná theta je úhel, je vhodné do Poincarého řezu vykreslovat hodnoty modulo (2 pi).
+- Ano, systém je chaotický (odchylka dvou blízkých trajektorií poroste exponenciálně), 
+  a přitom deterministický (trajektorie jsou dané přesným řešením diferenciálních rovnic).
+  Když chcete pěkný podrobný obrázek, tak výpočet Poincarého řezu trvá dlouho.
+
+Hodnotím 10 body.
+
+Když si uvědomíte, že jste kód nahrál do chybného souboru, můžete to sám opravit. 
+Verzovací systém git byl vytvořený právě proto, aby se mohly opravovat chyby (a při tom udržovat historii oprav).
